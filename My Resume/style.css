@@ -1,0 +1,76 @@
+
+header {
+    background-color: #333;
+    padding: 20px;
+    color: #fff;
+  }
+
+  /* Logo styles */
+  .logo {
+    width: 200px;
+    height: 100px;
+  }
+
+
+
+ 
+  body{
+
+     background-size: cover;
+     background-repeat: repeat;
+    color:#fff;
+  }
+
+
+
+
+
+
+
+
+.education{
+    width: 30%;
+    background-color: #2b2626;
+}
+
+.expirience{ 
+    width: 50%;
+    background-color: #2b2626;
+
+}
+
+.Duties{
+    width: 50%;
+    background-color: #2b2626;
+}
+
+
+
+
+
+#buttonn
+{
+
+position: absolute;
+left:1000px;
+top:100px;
+background-color: chartreuse;
+ border: none;
+ color: white;
+ padding: 15px 30px;
+ text-align: center;
+  text-decoration:none;
+  display: inline;
+  font-size: 20px;
+  margin: 5px 3px; 
+  cursor: pointer;
+}
+
+#button{
+    position: absolute;
+    left: 1010px;
+    top: 50px;
+
+ 
+
+}
